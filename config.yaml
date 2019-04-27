@@ -1,0 +1,41 @@
+filepath: ./data/241.txt
+attributes:
+  amount: 17
+  detail:
+    - name: threat_name
+      type: string
+    - name: threat_type
+      type: string
+    - name: threat_subtype
+      type: string
+    - name: level
+      type: string
+    - name: source_ip
+      type: ipv4
+    - name: source_port
+      type: port
+    - name: dest_ip
+      type: ipv4
+    - name: dest_port
+      type: port
+    - name: source_interface
+      type: string
+    - name: dest_interface
+      type: string
+    - name: protocol
+      type: string
+    - name: deal_action
+      type: string
+    - name: strategy
+      type: string
+    - name: start_time
+      type: time
+    - name: end_time
+      type: time
+    - name: detection_engine
+      type: string
+    - name: other
+      type: string
+  separator: ","
+Memery(MB): 1024
+ 

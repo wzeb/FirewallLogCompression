@@ -1,0 +1,174 @@
+MALWARE-BACKDOOR/TROJAN IRC Nick Change on Non-standard Port
+EXPLOIT Master IP CAM 01 Hardcoded Password for Root Account Vulnerability(CVE-2018-5723)
+MALWARE-BACKDOOR/TROJAN ZeroAccess Outbound udp traffic detected
+MISC Suspicious Mining Activities
+PROTOCOL-RDP Microsoft Remote Desktop Protocol Remote Code Execution Vulnerability (CVE-2015-2373)
+MALWARE-BACKDOOR/TROJAN DNS Reply Sinkhole Microsoft NO-IP Domain
+PROTOCOL-SSL TLS DHE_EXPORT Information Disclosure Vulnerability -8 (CVE-2015-4000)
+PROTOCOL-SMB Microsoft Windows SMB Server Smbv1 Memory Corruption Vulnerability -6 (CVE-2017-0143)
+MALWARE-BACKDOOR/TROJAN Variant.Graftor.5628 CnC Traffic
+PROTOCOL-SSL TLS DHE_EXPORT Information Disclosure Vulnerability -12 (CVE-2015-4000)
+PROTOCOL-SMB Microsoft Windows SMB Server Smbv1 Memory Corruption Vulnerability -3 (CVE-2017-0143)
+PROTOCOL-SSL TLS DHE_EXPORT Information Disclosure Vulnerability -19 (CVE-2015-4000)
+MALWARE-BACKDOOR/TROJAN Infected System Looking up chr.santa-inbox.com CnC Server
+FILE-PDF Microsoft Windows PDF Library Memory Corruption Vulnerability (CVE-2016-3319)
+WEB-APP Solarwinds Virtualization Manager Insecure Deserialization Vulnerability - 5 (CVE-2016-3642)
+PROTOCOL-SMTP IBM Lotus Domino nrouter.exe iCalendar MAILTO Stack buffer overflow -2 (CVE-2010-3407)
+PROTOCOL-SSL Openssl TLS DTLS Heartbeat Information Disclosure Vulnerability -4 (CVE-2014-0160)
+EXPLOIT EMC AlphaStor Device Manager Format String Vulnerability (CVE-2013-0929)
+PROTOCOL-DNS ISC BIND Referral CNAME and DNAME Assertion Failure Denial of Service Vulnerability -1 (CVE-2017-3137)
+MALWARE-BACKDOOR/TROJAN Trojan-Spy.Win32.Zbot.qgxi Checkin
+FILE-OTHER IBM Lotus Domino BMP Color Palette Stack Buffer Overflow Vulnerability -1 (CVE-2015-1903)
+MALWARE-BACKDOOR/TROJAN Gh0st Trojan CnC 2
+WEB-CLIENT Microsoft Internet Explorer Memory Corruption Vulnerability -2 (CVE-2015-2443)
+EXPLOIT Mikrotik Winbox RCE Attempt Vulnerability (CVE-2018-14847)
+MALWARE-BACKDOOR/TROJAN Spoofed MSIE 7 User-Agent Likely Ponmocup
+WEB-OTHER Microsoft IIS Webdav Scstoragepathfromurl Buffer Overflow Vulnerability -2 (CVE-2017-7269)
+WEB-OTHER Microsoft IIS Webdav Scstoragepathfromurl Buffer Overflow Vulnerability -1 (CVE-2017-7269)
+WEB-OTHER Wordpress Comments Stored Cross Site Scripting Vulnerability (CVE-2015-3440)
+EXPLOIT ESTsoft ALZip MIM File Processing Buffer Overflow (CVE-2011-1336)
+WEB-CLIENT Microsoft Internet Explorer Uninitialized Memory Corruption -2 (CVE-2010-2559)
+FILE-OTHER Winamp ID3v2 Tag Handling Buffer Overflow -1 (CVE-2005-2310)
+WEB-SERVER Apache Struts Dynamic Method Invocation Remote Code Execution Vulnerability -3 (CVE-2016-3081)
+WEB-SERVER Apache Struts Dynamic Method Invocation Remote Code Execution Vulnerability -6 (CVE-2016-3081)
+WEB-SERVER Apache Struts 2 Conversionerrorinterceptor OGNL Script Injection Vulnerability -5 (CVE-2012-0391)
+WEB-SERVER Apache Struts 2 REST plugin Remote Code Execution Vulnerability -1 (CVE-2017-9805)
+EXPLOIT Free Download Manager .torrent File Parsing Multiple buffer overflow -5 (CVE-2009-0184)
+EXPLOIT Multiple Products libxml2 XML file processing long entity name buffer overflow -1 (CVE-2008-3529)
+WEB-CLIENT Microsoft Internet Explorer CreateTextRange Remote Code Execution Vulnerability -2 (CVE-2006-1359)
+WEB-CLIENT Microsoft Internet Explorer Shadow Filter Direction Integer Overflow Vulnerability -3 (CVE-2015-0036)
+FILE-OTHER Poster Software Publish-it PUI File Processing Buffer Overflow Vulnerability -4 (CVE-2014-0980)
+FILE-OFFICE Microsoft Office TIFF Image Converter Heap Buffer Overflow -2 (CVE-2010-3947)
+WEB-OTHER PHP Arbitrary Code Injection -6
+WEB-CLIENT Microsoft Internet Explorer Iframe Uninitialized Memory Corruption Vulnerability -1 (CVE-2010-2556)
+PROTOCOL-SSL TLS DHE_EXPORT Information Disclosure Vulnerability -30 (CVE-2015-4000)
+MALWARE-CNC QVOD Related Spyware/Malware User-Agent (Qvod)
+MALWARE-BACKDOOR/TROJAN Brontok User-Agent Detected (Brontok.A3 Browser)
+EXPLOIT Microsoft Windows win32k.sys GDI Integer Overflow -1 (CVE-2011-5046)
+EXPLOIT Oracle WebLogic Server WorkContextXmlInputAdapter Insecure Deserialization Vulnerability - 2 (CVE-2017-10271)
+WEB-OTHER Remote Shell Command Execution -1
+WEB-CLIENT Microsoft Internet Explorer Memory Corruption Vulnerability (CVE-2013-3111)
+EXPLOIT Microsoft Windows GDIplus TIFF parsing buffer overflow -1 (CVE-2009-2502)
+WEB-OTHER Multiple Netgear Routers VU#582384 Remote Command Injection Vulnerability -1 (CVE-2016-6277)
+MALWARE-CNC Simbar Spyware User-Agent Detected
+PROTOCOL-SSL Openssl Anonymous ECDH Denial of Service Vulnerability -5 (CVE-2014-3470)
+WEB-SERVER Apache Struts 2 namespace Expression Language Injection Vulnerability -1 (CVE-2018-11776)
+WEB-CLIENT GNU Wget HTTP Redirect Arbitrary File Overwrite Vulnerability -1 (CVE-2016-4971)
+MALWARE-BACKDOOR/TROJAN Playtech Downloader Online Gaming Checkin
+BLACKLIST-USER-AGENTS Suspicious User-Agent Mozilla/3.0
+WEB-SERVER Apache Struts ActionForm ClassLoader Security Bypass -2 (CVE-2014-0114)
+MALWARE-OTHER Sality Virus User Agent Detected (KUKU)
+WEB-OTHER Generic Directory Traversal -18.e
+WEB-SERVER Apache Struts ParametersInterceptor ClassLoader Security Bypass -1 (CVE-2014-0094)
+WEB-OTHER Node dot js Pipelined Requests Denial of Service -2 (CVE-2013-4450)
+MALWARE-BACKDOOR/TROJAN IRC Private Message on Non-standard Port
+PROTOCOL-SMTP GNU C Library Gethostbyname Buffer Overflow Vulnerability -3 (CVE-2015-0235)
+PROTOCOL-SMTP Ipswitch Imail Server SMTP Service Buffer Overflow Vulnerability -1 (CVE-2006-4379)
+EXPLOIT Novell Groupwise Internet Agent RCPT Command Buffer Overflow (CVE-2009-0410)
+PROTOCOL-SMTP Exim Buffer Overflow -1 (CVE-2004-0399)
+WEB-CLIENT Microsoft Windows Vbscript Engine Information Disclosure Vulnerability (CVE-2015-6052)
+WEB-OTHER HP Operations Manager Server Unauthorized File Upload (CVE-2009-3843 )
+PROTOCOL-SMTP Novell GroupWise Internet Agent RRULE Parsing Buffer Overflow (CVE-2011-2662)
+PROTOCOL-SSL Openssl TLS DTLS Heartbeat Information Disclosure Vulnerability -5 (CVE-2014-0160)
+PROTOCOL-SSL Openssl TLS DTLS Heartbeat Information Disclosure Vulnerability -6 (CVE-2014-0160)
+MISC IBM Domino IMAP Mailbox Name Stack Buffer Overflow Vulnerability -1 (CVE-2017-1274)
+MISC IBM Domino IMAP Mailbox Name Stack Buffer Overflow Vulnerability -3 (CVE-2017-1274)
+PROTOCOL-SSL Openssl Anonymous ECDH Denial of Service Vulnerability -4 (CVE-2014-3470)
+EXPLOIT Cisco Adaptive Security Appliance Ikev1 and Ikev2 Heap Buffer Overflow Vulnerability -2 (CVE-2016-1287)
+PROTOCOL-SSL TLS DHE_EXPORT Information Disclosure Vulnerability -2 (CVE-2015-4000)
+MALWARE-OTHER User-Agent (Internet Explorer 6.0) - Possible Trojan Downloader
+WEB-CLIENT Microsoft Internet Explorer VML Use-after-free (CVE-2012-0172)
+PROTOCOL-SSL Microsoft Windows SChannel Buffer Overflow Vulnerability -4 (CVE-2014-6321)
+WEB-OTHER HTTP Negative Content-Length Buffer Overflow
+MALWARE-OTHER Suspicious User-Agent (vb wininet)
+FILE-OFFICE Microsoft Office Memory Corruption Vulnerability (CVE-2015-2520)
+MALWARE-OTHER Hex Encoded IP HTTP Request - Likely Malware
+WEB-OTHER Ruby on Rails XML Processor YAML Deserialization Code Execution (CVE-2013-0156)
+MALWARE-OTHER User-Agent (single dash)
+BLACKLIST-USER-AGENTS Suspicious User Agent (agent)
+MALWARE-BACKDOOR/TROJAN GreenDou Downloader User-Agent (hello crazyk)
+FILE-OTHER Microsoft Windows GDIplus PNG tEXt Chunk Processing integer overflow (CVE-2009-2501)
+PROTOCOL-RADIUS Microsoft Network Policy Server RADIUS Denial of Service Vulnerability -4 (CVE-2015-0015)
+PROTOCOL-SSL Openssl Anonymous ECDH Denial of Service Vulnerability -7 (CVE-2014-3470)
+EXPLOIT CA ARCserve Backup Authentication Service Invalid Virtual Function Call (CVE-2012-2971)
+MALWARE-BACKDOOR/TROJAN Possible Worm W32.Svich or Other Infection Request for setting.ini
+MALWARE-BACKDOOR/TROJAN Fake/Short Google Search Appliance UA Win32/Ranbyus and Others
+WEB-ACTIVEX Remote Code Execution via ActiveX -2
+EXPLOIT Server Service Remote Code Execution (MS06-040)
+PROTOCOL-RPC Microsoft Windows Server Service RPC Request Handling Buffer Overflow -3 (MS08-067 CVE-2008-4250)
+MALWARE-OTHER User-Agent (Firefox) - Possible Trojan Downloader
+EXPLOIT Oracle Weblogic Server Commons-collections Library Insecure Deserialization Vulnerability -3 (CVE-2015-4852)
+WEB-OTHER Node dot js Pipelined Requests Denial of Service -3 (CVE-2013-4450)
+FILE-OTHER Mozilla Multiple Products WAV Processing Buffer Overflow -1 (CVE-2012-4186)
+MALWARE-BACKDOOR/TROJAN Suspicious User-Agent (MYURL)
+WEB-OTHER Novell ZENworks Mobile Management Cross-Site Scripting Vulnerability - 1
+MALWARE-BACKDOOR/TROJAN Known Sinkhole Response Header
+WEB-CLIENT Mozilla Multiple Products Multiple Location Headers Vulnerability -1 (CVE-2011-3000)
+WEB-OTHER Zend Technologies Zend Framework Zend_xmlrpc Information Disclosure Vulnerability (CVE-2012-3363)
+WEB-OTHER NULL-Byte Injection -7
+MALWARE-BACKDOOR/TROJAN Win32/Oliga Fake User Agent
+WEB-OTHER Sophos Web Appliance SophosConfig Write Command Execution -1 (CVE-2014-2850)
+PROTOCOL-DNS ISC BIND DNS Cookie Assertion Failure Denial of Service Vulnerability (CVE-2016-2088)
+WEB-SERVER Apache Struts 2 REST plugin Remote Code Execution (CVE-2017-9805)
+PROTOCOL-SSL Openssl TLS DTLS Heartbeat Information Disclosure Vulnerability -2 (CVE-2014-0160)
+MISC Microsoft Windows Theme API Code Execution Vulnerability (CVE-2018-8413)
+PROTOCOL-SSL Openssl DTLS Dtls1_buffer_record Denial of Service Vulnerability -1 (CVE-2015-0206)
+PROTOCOL-SSL TLS DHE_EXPORT Information Disclosure Vulnerability -6 (CVE-2015-4000)
+FILE-OFFICE Microsoft Office Memory Corruption Vulnerability (CVE-2016-3357)
+MALWARE-OTHER Suspicious User-Agent (update)
+WEB-OTHER PHP Ziparchive Getfromindex and Getfromname Integer Overflow Vulnerability (CVE-2016-3078)
+WEB-SQL-INJECTION Joomla! Com_fields SQL Injection Vulnerability -3 (CVE-2017-8917)
+FILE-OTHER Microsoft Paint JPEG Image Parsing Integer Overflow Vulnerability -1 (CVE-2010-0028)
+FILE-OTHER Winamp ID3v2 Tag Handling Buffer Overflow -3 (CVE-2005-2310)
+FILE-OFFICE Microsoft Office PICT Filter Map Structure Memory Corruption -1 (CVE-2008-3021)
+FILE-FLASH Adobe Flash Player Buffer Overflow Vulnerability -1 (CVE-2012-2035)
+WEB-OTHER GNU Bash Environment Variable Handling Command Execution Vulnerability -6 (CVE-2014-6271)
+PROTOCOL-SSL Microsoft Windows SChannel Buffer Overflow Vulnerability -1 (CVE-2014-6321)
+MALWARE-BACKDOOR/TROJAN Sality - Fake Opera User-Agent
+MALWARE-BACKDOOR/TROJAN Neutrino Cookie
+PROTOCOL-DNS Microsoft DNS Server NAPTR Record Sign Extension Memory Corruption (CVE-2011-1966)
+FILE-OFFICE Microsoft Office Art Property Table memory corruption -1
+PROTOCOL-SSL TLS DHE_EXPORT Information Disclosure Vulnerability -16 (CVE-2015-4000)
+PROTOCOL-SSL TLS DHE_EXPORT Information Disclosure Vulnerability -9 (CVE-2015-4000)
+PROTOCOL-SSL Openssl TLS DTLS Heartbeat Information Disclosure Vulnerability -7 (CVE-2014-0160)
+FILE-OTHER Apple Quicktime Traf Atom Out-of-bounds Access Vulnerability -2 (CVE-2015-3668)
+BLACKLIST-USER-AGENTS Suspicious User-Agent Sample
+EXPLOIT Adobe Shockwave Director PAMI Chunk Parsing Memory Corruption (CVE-2010-2872)
+MALWARE-BACKDOOR/TROJAN Self-Signed Cert Observed in Various Zbot Strains
+PROTOCOL-RADIUS Microsoft Network Policy Server RADIUS Denial of Service Vulnerability -3 (CVE-2015-0015)
+WEB-SERVER Nginx Location NTFS Extended Attributes Security Bypass Vulnerability (CVE-2011-4963)
+WEB-SERVER Apache Struts 2 Conversionerrorinterceptor OGNL Script Injection Vulnerability -3 (CVE-2012-0391)
+MALWARE-BACKDOOR/TROJAN DNS Reply Sinkhole - Microsoft - 131.253.18.0/24
+WEB-OTHER Generic Remote Javascript Upload and Execution -1
+WEB-ACTIVEX Trend Micro OfficeScan Client ActiveX control buffer overflow -1 (CVE-2007-0325)
+MALWARE-BACKDOOR/TROJAN DNS Reply Sinkhole - Microsoft - 199.2.137.0/24
+WEB-SERVER Apache Struts Jakarta Multipart Parser Remote Code Execution Vulnerability -4 (CVE-2017-5638)
+WEB-CLIENT Microsoft Internet Explorer Scroll Event Use-After-Free -2 (CVE-2011-1993)
+WEB-SERVER Apache HTTP Server Mod_deflate Denial of Service Vulnerability -1 (CVE-2014-0118)
+FILE-FLASH Adobe Flash Player Buffer Overflow Vulnerability -2 (CVE-2012-2035)
+PROTOCOL-SSL TLS DHE_EXPORT Information Disclosure Vulnerability -3 (CVE-2015-4000)
+WEB-SQL-INJECTION SQL Injection Attempt Using UNION SELECT -10
+MALWARE-BACKDOOR/TROJAN DNS Reply Sinkhole - Microsoft - 207.46.90.0/24
+PROTOCOL-SSL Openssl Anonymous ECDH Denial of Service Vulnerability -2 (CVE-2014-3470)
+FILE-OTHER Winamp ID3v2 Tag Handling Buffer Overflow -2 (CVE-2005-2310)
+MISC GNU Libextractor ZIP File Comment Out-of-Bounds Read Vulnerability(CVE-2018-16430)
+EXPLOIT Oracle WebLogic Server WorkContextXmlInputAdapter Insecure Deserialization Vulnerability - 5 (CVE-2017-10271)
+WEB-CLIENT Mozilla Products EnsureCachedAttrParamArrays Integer Overflow (CVE-2010-1214)
+WEB-OTHER Novell ZENworks Mobile Management Cross-Site Scripting Vulnerability - 2
+WEB-OTHER Generic XXE Information Disclosure -5
+WEB-OTHER HP Performance Manager Apache Tomcat Policy Bypass (CVE-2009-4189)
+WEB-OTHER Eclipse Foundation Jetty Web Server Httpparser Remote Information Disclosure Vulnerability (CVE-2015-2080)
+PROTOCOL-SSL Openssl Anonymous ECDH Denial of Service Vulnerability -3 (CVE-2014-3470)
+PROTOCOL-SSL Openssl Anonymous ECDH Denial of Service Vulnerability -6 (CVE-2014-3470)
+PROTOCOL-SCADA Schneider Electric Indusoft Web Studio Remote Agent Remote Code Execution Vulnerability (CVE-2015-7374)
+WEB-CLIENT Microsoft Internet Explorer Memory Corruption Vulnerability -2 (CVE-2013-3184)
+MALWARE-OTHER User-Agent (Microsoft Internet Explorer 6.0) Possible Reverse Web Shell
+FILE-PDF Adobe Reader Mobile JavaScript Interface Java Code Execution -3 (CVE-2014-0514)
+EXPLOIT Microsoft Windows EOT Font Engine Information Disclosure Vulnerability (CVE-2018-0855)
+MISC Oracle WebLogic Server RemoteObject Insecure Deserialization Vulnerability (CVE-2018-3245)
+WEB-SERVER Oracle WebLogic Server Activator Insecure Deserialization Vulnerability (CVE-2018-2893)
+EXPLOIT Oracle Weblogic Server Unicastref Insecure Deserialization Vulnerability (CVE-2017-3248)
+PROTOCOL-RADIUS Microsoft Network Policy Server RADIUS Denial of Service Vulnerability -2 (CVE-2015-0015)
+FILE-OTHER RealNetworks RealPlayer URL Parsing Stack Buffer Overflow (CVE-2012-5691)
+WEB-OTHER Microsys Promotic Pmbase64decode Buffer Overflow Vulnerability -2 (CVE-2014-9205)
+FILE-OFFICE Microsoft Office Memory Corruption Vulnerability (CVE-2015-2523)
