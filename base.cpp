@@ -15,6 +15,9 @@ DataType getDateTypeByStr(const char* str) {
 	return UNKNOWN;
 }
 
+uint32_t cc2num['9'+1]['9'+1];
+uint32_t c2num['9'+1];
+
 void initcc2num() {
 	for(int i='0'; i<='9'; i++) {
 		c2num[i] = i - '0';
