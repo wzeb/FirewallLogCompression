@@ -60,8 +60,8 @@ struct Interval {
     Interval(uint32_t L, uint32_t R):L(L), R(R) {}
 };
 
-uint32_t cc2num['9'+1]['9'+1];
-uint32_t c2num['9'+1];
+extern	uint32_t cc2num['9'+1]['9'+1];
+extern	uint32_t c2num['9'+1];
 
 //==================== function ======================
 
